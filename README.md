@@ -1,4 +1,4 @@
-## It rained the last time in Paris on *October 21st 2016 around 02:10 pm*
-💧  **light rain** *Humidity 95%*
+## It rained the last time in Paris on *October 23rd 2016 around 04:10 pm*
+💧  **light rain** *Humidity 99%*
 
 ![light rain](http://openweathermap.org/img/w/10d.png)
